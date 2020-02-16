@@ -6,7 +6,8 @@
 This is a simple clone of the snake game written in Java.
 
 ### Installation
-* Download zip folder and extract files into an IDE
+* Download or clone the app then run it inside an IDE
+* Download and run it in the cli
 
 ### Usage
 Keys | Direction
